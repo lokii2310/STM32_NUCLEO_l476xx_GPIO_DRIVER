@@ -1,0 +1,2 @@
+"./Src/toggle_LED.o"
+"./Startup/startup_stm32l476rgtx.o"
